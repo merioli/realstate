@@ -1,0 +1,10 @@
+c:\users\merioli\documents\visual studio 2013\Projects\realstate\realstate\bin\Debug\realstate.exe.config
+c:\users\merioli\documents\visual studio 2013\Projects\realstate\realstate\bin\Debug\realstate.exe
+c:\users\merioli\documents\visual studio 2013\Projects\realstate\realstate\bin\Debug\realstate.pdb
+c:\users\merioli\documents\visual studio 2013\Projects\realstate\realstate\obj\Debug\realstate.csprojResolveAssemblyReference.cache
+c:\users\merioli\documents\visual studio 2013\Projects\realstate\realstate\obj\Debug\realstate.Form1.resources
+c:\users\merioli\documents\visual studio 2013\Projects\realstate\realstate\obj\Debug\realstate.Properties.Resources.resources
+c:\users\merioli\documents\visual studio 2013\Projects\realstate\realstate\obj\Debug\realstate.csproj.GenerateResource.Cache
+c:\users\merioli\documents\visual studio 2013\Projects\realstate\realstate\obj\Debug\realstate.exe.licenses
+c:\users\merioli\documents\visual studio 2013\Projects\realstate\realstate\obj\Debug\realstate.exe
+c:\users\merioli\documents\visual studio 2013\Projects\realstate\realstate\obj\Debug\realstate.pdb
