@@ -8,3 +8,26 @@ c:\users\merioli\documents\visual studio 2013\Projects\realstate\realstate\obj\D
 c:\users\merioli\documents\visual studio 2013\Projects\realstate\realstate\obj\Debug\realstate.exe.licenses
 c:\users\merioli\documents\visual studio 2013\Projects\realstate\realstate\obj\Debug\realstate.exe
 c:\users\merioli\documents\visual studio 2013\Projects\realstate\realstate\obj\Debug\realstate.pdb
+C:\Users\merioli\Desktop\realstate\realstate\bin\Debug\realstate.exe.config
+C:\Users\merioli\Desktop\realstate\realstate\bin\Debug\realstate.exe
+C:\Users\merioli\Desktop\realstate\realstate\bin\Debug\realstate.pdb
+C:\Users\merioli\Desktop\realstate\realstate\bin\Debug\EntityFramework.dll
+C:\Users\merioli\Desktop\realstate\realstate\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merioli\Desktop\realstate\realstate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\merioli\Desktop\realstate\realstate\bin\Debug\EntityFramework.xml
+C:\Users\merioli\Desktop\realstate\realstate\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merioli\Desktop\realstate\realstate\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\merioli\Desktop\realstate\realstate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.Form1.resources
+C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.Properties.Resources.resources
+C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.csproj.GenerateResource.Cache
+C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.exe.licenses
+C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.exe
+C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.pdb
+C:\Users\merioli\Desktop\realstate\realstate\bin\Debug\realstate.exe.manifest
+C:\Users\merioli\Desktop\realstate\realstate\bin\Debug\realstate.application
+C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.exe.manifest
+C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.application
+C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.csprojResolveAssemblyReference.cache
+C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.Form2.resources
+C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.Form3.resources
