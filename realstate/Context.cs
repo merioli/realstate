@@ -12,6 +12,8 @@ namespace realstate
     class Context
     {
     }
+
+
     public class Dialog
     {
         public bool showDialog { get; set; }
@@ -24,32 +26,31 @@ namespace realstate
 
     public class Datum
     {
-        [Key]
         public string server_id { get; set; }
         public string title { get; set; }
         public string desc { get; set; }
+        public int isWished { get; set; }
         public List<string> images { get; set; }
-        public double lat { get; set; }
-        public double lng { get; set; }
+        public string lat { get; set; }
+        public string lng { get; set; }
         public string area { get; set; }
-        public int build_year { get; set; }
+        public string areaID { get; set; }
+        public string build_year { get; set; }
         public bool canbeAgent { get; set; }
         public bool isAgent { get; set; }
         public bool countryside { get; set; }
-        public int room { get; set; }
-        public int metraj { get; set; }
+        public string room { get; set; }
+        public string metraj { get; set; }
+        public string kind { get; set; }
         public string cat { get; set; }
-        public int vadie { get; set; }
-        public int ejare { get; set; }
-        public int tabdil { get; set; }
+        public string vadie { get; set; }
+        public string ejare { get; set; }
+        public string tabdil { get; set; }
+        public string total { get; set; }
         public string phone { get; set; }
+        public string phone_hidden { get; set; }
         public string email { get; set; }
         public string source { get; set; }
-    }
-
-    public class Remove
-    {
-        public string server_id { get; set; }
     }
 
     public class Cat
@@ -64,9 +65,12 @@ namespace realstate
 
     public class Result
     {
+        public bool forceRemoveAll { get; set; }
         public bool forceLogout { get; set; }
         public List<Datum> data { get; set; }
-        public List<Remove> remove { get; set; }
+        public int data_count { get; set; }
+        public int today_files { get; set; }
+        public object remove { get; set; }
         public List<Cat> cats { get; set; }
         public List<RemoveCat> remove_cats { get; set; }
         public bool hastNextPage { get; set; }
@@ -88,6 +92,38 @@ namespace realstate
         public string name { get; set; }
 
     }
+
+
+    public class Cats2
+    {
+        public string ID { get; set; }
+        public string title { get; set; }
+    }
+
+    public class Areas2
+    {
+        public string ID { get; set; }
+        public string title { get; set; }
+    }
+
+
+    public class Category
+    {
+        public string ID { get; set; }
+        public string title { get; set; }
+    }
+
+    public class Result2
+    {
+        public List<Cats2> cats2 { get; set; }
+        public List<Areas2> areas2 { get; set; }
+        public List<Category> category { get; set; }
+    }
+    public class CatsAndAreasObject
+    {
+        public Result2 result2 { get; set; }
+    }
+
 
     public class MyContext : DbContext
     {

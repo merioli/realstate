@@ -31,3 +31,6 @@ C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.application
 C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.csprojResolveAssemblyReference.cache
 C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.Form2.resources
 C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.Form3.resources
+C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.Form4.resources
+C:\Users\merioli\Desktop\realstate\realstate\obj\Debug\realstate.Form5.resources
+C:\Users\merioli\Desktop\realstate\realstate\bin\Debug\Resources\text.txt

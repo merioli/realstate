@@ -73,20 +73,20 @@ namespace realstate.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap down1 {
+        internal static System.Drawing.Bitmap iconfinder_menu_alt_134216 {
             get {
-                object obj = ResourceManager.GetObject("down1", resourceCulture);
+                object obj = ResourceManager.GetObject("iconfinder_menu-alt_134216", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static System.Drawing.Bitmap iconfinder_menu_alt_134216 {
+        internal static byte[] IRANSans_FaNum_ {
             get {
-                object obj = ResourceManager.GetObject("iconfinder_menu-alt_134216", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
+                object obj = ResourceManager.GetObject("IRANSans_FaNum_", resourceCulture);
+                return ((byte[])(obj));
             }
         }
         
